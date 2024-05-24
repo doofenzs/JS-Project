@@ -1,5 +1,3 @@
-Certainly! Here's a simple template for the README.md file for your two projects:
-
 ---
 
 # Project 1: BgChanger
