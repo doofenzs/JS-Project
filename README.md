@@ -35,3 +35,19 @@ Description: A BMI (Body Mass Index) calculator web application that calculates 
 - JavaScript
 
 ---
+
+# Digital Clock
+
+## How to Use
+
+1. Clone this repository to your local machine.
+2. Open the `index.html` file in a web browser.
+3. The digital clock will display the current local time.
+4. The time updates automatically every second.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
