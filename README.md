@@ -36,7 +36,7 @@ Description: A BMI (Body Mass Index) calculator web application that calculates 
 
 ---
 
-# Digital Clock
+# Project 3: Digital Clock
 
 ## How to Use
 
@@ -51,3 +51,4 @@ Description: A BMI (Body Mass Index) calculator web application that calculates 
 - CSS
 - JavaScript
 
+---
