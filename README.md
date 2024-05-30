@@ -52,3 +52,30 @@ Description: A BMI (Body Mass Index) calculator web application that calculates 
 - JavaScript
 
 ---
+
+# Project 4: Number Guessing Game
+
+**Description:**
+A simple number guessing game implemented using HTML, CSS, and JavaScript. The game generates a random number between 1 and 100, and the player needs to guess the number within 10 attempts.
+
+**How to Play:**
+1. Clone this repository to your local machine.
+2. Open the `index.html` file in your web browser.
+3. Enter your guess in the input field provided.
+4. Click the "Submit Guess" button to submit your guess.
+5. Receive feedback on whether your guess is too low, too high, or correct.
+6. Keep guessing until you either guess the correct number or run out of attempts.
+
+**Files Included:**
+- `index.html`: Contains the structure of the game interface.
+- `styles.css`: Stylesheet file for the game interface.
+- `main.js`: JavaScript file containing the game logic.
+
+**Features:**
+- Generates a random number between 1 and 100 for the player to guess.
+- Validates user input to ensure it is a valid number within the specified range.
+- Provides feedback on whether the guess is too low, too high, or correct.
+- Limits the number of attempts to 10.
+- Allows the player to start a new game after completing or failing the current one.
+
+---
