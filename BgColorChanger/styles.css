@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    transition: background-color 0.5s ease;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+button {
+    padding: 15px 30px;
+    font-size: 1rem;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+#start {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+
+#start:hover {
+    background-color: #45a049;
+    transform: scale(1.1);
+}
+
+#stop {
+    background-color: #f44336; /* Red */
+    color: white;
+}
+
+#stop:hover {
+    background-color: #e53935;
+    transform: scale(1.1);
+}
