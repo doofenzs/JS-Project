@@ -95,3 +95,25 @@ Background Color Changer is a web application that changes the background color 
 - JavaScript
 
 ---
+
+## Project 6: Keyboard Check
+
+### Description
+Keyboard Check is a web application that displays details of the key pressed by the user, including the key value, keyCode, and code.
+
+### How to Use
+1. Clone this repository to your local machine.
+2. Open the `index.html` file in a web browser.
+3. Press any key on your keyboard to see its details displayed on the screen.
+
+### Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+### Files Included
+- `index.html`: Contains the structure of the application interface.
+- `styles.css`: Stylesheet file for the application interface.
+- `main.js`: JavaScript file containing the logic to capture and display key details.
+
+---
