@@ -77,3 +77,21 @@ Number Guessing Game is a simple game where the player tries to guess a randomly
 - Allows the player to start a new game after completing or failing the current one.
 
 ---
+
+## Project 5: Background Color Changer
+
+### Description
+Background Color Changer is a web application that changes the background color of the page every second with a random color.
+
+### How to Use
+1. Clone this repository to your local machine.
+2. Open the `index.html` file in a web browser.
+3. Click the "Start" button to begin changing the background color.
+4. Click the "Stop" button to stop changing the background color.
+
+### Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+---
